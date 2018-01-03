@@ -1,0 +1,227 @@
+﻿{
+	'Name' : 'English'	
+	'LCID' : 1033
+	'Group':{
+		'Dictionary' : {
+			'CheckAll' : 'Check All'		
+			'ReverseCheck' : 'Reverse Checkmarks'		
+			'DeleteCheck' : 'Delete Checked'		
+			'ClearList' : 'Clear List'		
+			'GamePath' : 'Game Path'		
+			'HandleObject' : 'Processing Object '		
+			'HandleContent' : 'Processing Content'		
+			'HandleImg' : 'IMG Processing'		
+			'HandleImage' : 'Sprite Processing'		
+			'CheckImg' : 'Selected IMG'		
+			'AllImg' : 'All IMG'		
+			'CheckImage' : 'Selected Image'		
+			'AllImage' : 'All Images'		
+			'Position' : 'Coordinates'		
+			'AddFile' : 'Add File'		
+			'RenameLayer' : 'Rename Layer'		
+			'AddLayer' : 'Add To Layer List'		
+			'CavasWidth' : 'Canvas Width'		
+			'CavasHeight' : 'Canvas Height'		
+			'CavasSize' : 'Canvas Size'		
+			'ColorBits' : 'Color Bit'		
+			'RealativePosition' : 'Relative Coordinates'		
+			'AbsolutePosition' : 'Absolute Coordinates'		
+			'AdjustPosition' : 'Adjust Coordinates'		
+			'Tips' : 'Prompt'		
+			'Profession' : 'Subclass'		
+			'ReplaceFromGif' : 'Replace From Gif'		
+			'TargetIndex' : 'Link to '		
+			'SaveAs' : 'Save As'		
+			'OpenDir' : 'Open Folder'		
+			'SaveDir' : 'Save to Folder'		
+			'Classify' : 'Categorize'		
+			'Rule' : 'Ruler'		
+			'DisplayRule' : 'Display Ruler'		
+			'DisplayRuleCrossfair' : 'Display Crosshair'		
+			'LockRule' : 'Lock Ruler'		
+			'AdjustRule' : 'Adjust Ruler'		
+			'MutipleLayer' : 'Mutiple Layer Mode'		
+			'Model' : 'Mod'		
+			'ClearModel' : 'Clear Mod'		
+			'SearchModel' : 'Search Mod'		
+			'FitRoom' : 'Dressing Room'		
+			'Macro' : 'Action'		
+			'ColorChart' : 'Palette'
+			'Contiune' : 'Resume'		
+			'LoadScript' : 'Load Script'		
+			'FeedBack' : 'Feedback'		
+			'CavasScale' : 'Zoom'		
+			'ChangeBackground' : 'Change Background'		
+			'RealPostion' : 'True Coordinates'		
+			'Flash' : 'Play Animation'		
+			'OnionSkin' : 'Onion skin'	
+			'LineDodge'	: 'Linear Dodge' //No5972 CHANGED
+			'NewFile' : 'New File'		
+			'ReplaceFile' : 'Replace File'		
+			'HideFile' : 'Hide File\'s Sprites'		
+			'RepairFile' : 'Repair File'		
+			'SplitFile':'Split File'
+			'MixFile':'Mix File'
+			'MoveFile' : 'Move File'
+			'Rename' : 'Rename'		
+			'ConvertVersion' : 'Convert Version'		
+			'Encrypt' : 'Password Protection'		
+			'DeletePassword' : 'Remove Password'		
+			'NewImage' : 'New Sprite'		
+			'ReplaceImage' : 'Replace Sprite'		
+			'SaveImage' : 'Save Sprites'		
+			'SaveAllImage' : 'Save All Sprites'		
+			'SaveGif' : 'Export GIF'		
+			'HideImage' : 'Hide Sprites'		
+			'ChangeImagePosition' : 'Modify Coordinates'		
+			'LinkImage' : 'Link Sprites'	
+			'MoveImage' : 'Move Image'	
+			'Tools' : 'Tools'	
+			'MoveTool':'Move Tool'	
+			'CavasImage' : 'Add Canvas'		
+			'UnCavasImage' : 'Remove Canvas'		
+			'Path' : 'File Path'		
+			'ImageCount' : 'Sprites Count'		
+			'Offset' : 'Offset'		
+			'Splice' : 'Merge'		
+			'AddMerge' : 'Add to Merge Queue'		
+			'RunMerge' : 'Perform Merge'		
+			'RunSpliceToNew' : 'Perform Merge To New File'		
+			'AddOutsideMerge' : 'Add External File'		
+			'UseOutsideRule' : 'Use other rule'		
+			'ClearMerge' : 'Clear Merge Queue'		
+			'RemoveMerge' : 'Remove IMG From Queue'
+			'MoveMerge' : 'Move Merge Queue'		
+			'MoveUp' : 'Move Up'		
+			'MoveDown' : 'Move Down'		
+			'UpdateTime' : 'Updated'		
+			'ExpireTime' : 'Valid Until'		
+			'Remark' : 'Comment'		
+			'CanExtract' : 'Can be Extracted'		
+			'CanRead' : 'Can be Viewed'		
+			'Copyright' : 'Copyrighted'		
+			'Submit' : 'Submit'		
+			'Keyword' : 'Keywords'		
+			'MatchAll' : 'Match All'		
+			'UseDictionary' : 'Use Dictionary'		
+			'IgnoreModel' : 'Ignore Mod'		
+			'DisplayNPK' : 'Show NPK'		
+			'DisplayImg' : 'Show IMG'		
+			'AddNPK' : 'Add NPK to List'		
+			'Search' : 'Search'		
+			'ClearMode' : 'Clean Mode'		
+			'SimpleClear' : 'Simple Clean Up'		
+			'DepthClear' : 'In-Depth Clean Up'		
+			'Clear' : 'Clear'		
+			'Backup' : 'Backup'		
+			'Cap' : 'Hat'		
+			'AddListHideImage' : 'Hide Sprite when add list.'		
+			'ClearSplice' : 'Clear Queue when add to Merge Queue.'		
+			'BanImg' : '"(tn)|(18)" Prefix IMG'		
+			'MaskImg' : '"mask" Suffix IMG"'		
+			'AddList' : 'Add List'		
+			'LoadModel' : 'Load Template'		
+			'AddWeapon' : 'Add Weapon IMG'		
+			'AddSkin' : 'Add Skin IMG'		
+			'AutoSave' : 'Autosave'		
+			'GridGap' : 'Grid Spacing'		
+			'SaveImageTips' : 'Prompt When Extracting'		
+			'FlashSpeed' : 'Animation Speed'		
+			'AutoUpdate' : 'Autoupdate'		
+			'CheckUpdate' : 'Check Updates'		
+			"ProgramExceptions" : "Some exceptions occurred in program." //No5972 CHANGED
+			"SubmitFeedback":"Submit feedback to author."
+			'SubmitBugLog' : 'Submit log to the server.'		
+			'NoTips' : 'Don\'t remind me again.'		
+			'FunctionDeprecated' : 'Function deprecated.'		
+			'NeedUpdateTips' : 'An update is found! Update now?'		
+			'NeedNotUpdateTips' : 'Current version is up to date.'		
+			'EmptyMergeTips' : 'Merging Queue is empty!'		
+			'NotSelectImgTips' : 'Specified IMG not selected'		
+			'SaveTips' : 'The file has been modified.Save changes?'		
+			'DeleteTips' : 'Are you sure you want delete checked files?'		
+			'HideTips' : 'Are you sure you want hide checked files\'s sprites?'		
+			'DeletePasswordTips' : 'Are you sure you want remove checked file\'s passwords?'		
+			'NotHandleFile' : 'This operation cannot be performed on this file'		
+			'InputTarget' : 'Please input the target index.'		
+			'SelectPathIsInvalid' : 'Select path is invalid,please reselect. '		
+			'SelectPathTips' : 'Please select the path'		
+			'FileIsInvalid' : 'File is invalid!'		
+			'InputCannotEmpty' : 'The input text Can\'t empty'		
+			'NotExistCommand' : 'Command isn\'t exist'		
+			'ActionTips' : 'Do action for all sprites？'		
+			'SavePathTips' : 'Add IMG FullPath'	
+			//No5972 CHANGED
+			'Setting' : 'Settings'	
+			'ChangeImageSize' : 'Change Sprite Size'
+			'ChangeToCurrentColor' : 'Change to Current Color'
+		},
+		"Alias":{
+			"swordman": "Swordman(male)",
+			"swordman_at": "Swordman(female)",
+			"fighter_at": "Fighter(male)",
+			"fighter": "Fighter(female)", //No5972 CHANGED
+			"mage_at": "Mage(male)",
+			"mage": "Mage(female)",
+			"gunner": "Gunner(male)",
+			"gunner_at": "Gunner(female)",
+			"priest": "Priest(male)",
+			"priest_at": "Priest(female)",
+			"thief": "Thief(female)",
+			"knight": "Knight(female)",
+			"demoniclancer": "Lancer(male)",
+
+			"hair": "Hair",
+			"cap": "Cap",
+			"face": "Face",
+			"neck": "Neck",
+			"coat": "coat",
+			"skin": "Skin",
+			"belt": "Belt",
+			"pants": "Pants",
+			"shoes": "Shoes",
+
+
+			"katana": "Katana",
+			"sswd": "Short Sword",
+			"lswd": "Long Sword",
+			"lgswd": "Rapier",
+			"lswd_teen": "Teen Sword",
+			"mswd": "Massive Sword",
+			"club": "Bludgeon",
+			"lkatana": "Long Katana",
+			"gemswd": "Gem Sword",
+			"beamswd": "Lightsaber",
+			"bswd": "Bone Sword",
+			"tonfa": "Tonfa",
+			"glove": "Glove",
+			"knuckle": "Knuckle",
+			"claw": "Claw",
+			"gauntlet": "Gauntlets",
+			"bglove": "Boxing Gloves",
+			"arm": "Arm",
+			"bclaw": "Bone Claw",
+			"rev": "Revovler",
+			"musket": "Musket",
+			"bowgun": "Bowgun",
+			"hcan": "Hand Cannon",
+			"auto": "Auto Gun",
+			"staff": "Staff",
+			"spear": "Spear",
+			"rod": "Rod",
+			"pole": "Pole",
+			"broom": "Broomstick",
+			"totem": "Totem",
+			"scythe": "Scythe",
+			"rosary": "Rosary",
+			"cross": "Cross",
+			"axe": "Battle Axe",
+			"wand": "Wand",
+			"twinswd": "Twin Sword",
+			"dagger": "Dagger",
+			"chakraweapon": "Chakra",
+			"pike": "Long Lance",
+			"halberd": "Halberd"
+		}
+	}
+}
